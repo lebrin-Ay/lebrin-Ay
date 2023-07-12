@@ -10,7 +10,7 @@
 <h2 align="center"> About Me 😇</h2>
 
 - 👩‍ I am an enthusiastic frontend developer 
-- 🌱 I'm currently learning ReactJS
+- 🌱 I'm currently learning React Native
 - 👯 I'm looking to collaborate on Frontend Development projects
 - 💬 Ask me about anything relating to frontend and I would be happy to help
 - 📫 How to reach me: Ayo.Eboweme@gmail.com
